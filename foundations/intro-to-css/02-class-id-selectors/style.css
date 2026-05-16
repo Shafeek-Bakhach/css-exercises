@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.size-up {
+    font-size:24px;
+}
+#two {
+    color: blue;
+    font-size: 32px;
+}
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+}
